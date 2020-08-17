@@ -1,4 +1,5 @@
 module.exports = {
+	publicPath: '',
 	css: {
 		loaderOptions: {
 			sass: {
@@ -8,7 +9,6 @@ module.exports = {
 	},
 	devServer: {
 		host: 'localhost',
-		// proxy: 'http://localhost:3000',
 		port: 3000
 	},
 };
