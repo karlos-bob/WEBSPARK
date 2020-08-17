@@ -262,6 +262,7 @@
 				display: flex;
 				font-weight: bold;
 				font-size: 17px;
+				font-family: "Helvetica Neue Thin", sans-serif;
 
 				@media screen and (max-width: 575px) {
 					font-size: 14px;

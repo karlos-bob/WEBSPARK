@@ -209,6 +209,7 @@
 			color: var(--black0);
 			text-transform: uppercase;
 			cursor: pointer;
+			font-family: "Proxima Nova Light", sans-serif;
 
 			&:hover,
 			&:active {

@@ -160,7 +160,7 @@
 					font-size: 35px;
 					letter-spacing: -1.4px;
 					font-family: "Myriad Pro Light", sans-serif;
-					font-weight: 400;
+					font-weight: 700;
 
 					@media (max-width: 576px) {
 						margin-bottom: 10px;
@@ -172,7 +172,7 @@
 					text-align: center;
 					padding: 10px;
 					color: #4090db;
-					font-family: "Helvetica Neue Thin", sans-serif;
+					font-family: "Helvetica Neue", sans-serif;
 					font-size: 15px;
 					font-weight: 400;
 					border-radius: 5px;

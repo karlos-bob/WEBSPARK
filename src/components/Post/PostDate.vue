@@ -72,6 +72,7 @@
 <style lang="scss" scoped>
 
 	.post-date-wrapper {
+		font-family: "Proxima Nova - Semibold", sans-serif;
 		font-size: 17px;
 
 		@media screen and (max-width: 575px) {
