@@ -86,7 +86,7 @@
 				content: "";
 				display: block;
 				position: absolute;
-				background-image: url(/img/Shape_1.aa0a9397.png);
+				background-image: url("./../assets/img/Shape_1.png");
 				background-repeat: no-repeat;
 				width: 1245px;
 				height: 486px;
